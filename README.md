@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Ananya E P from Kerala, India <br><br>- 
+⚡ Enthusiastic Backend Developer and Distributed Systems Aficionado<br>- 🔭 Eagerly crafting robust web applications with a focus on the Go programming language.<br>- 🚀 Striving to elevate my skills to professional mastery in the dynamic realm of backend development</p>
 
 ###
 
