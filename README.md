@@ -60,7 +60,7 @@
   Projects that I am currently working on:
 </p>
 
-- 🛍️ [First-Project_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API]((https://github.com/AnanyaDevGo/First-Project.git))
+- 🛍️ [First-Project_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API](https://github.com/AnanyaDevGo/First-Project.git)
 
 ###
 
