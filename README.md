@@ -53,6 +53,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
+###
+
+<h2 align="center">💻 Projects</h2>
+<p align="left">
+  Projects that I am currently working on:
+</p>
+
+- 🛍️ [First-Project_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API]((https://github.com/AnanyaDevGo/First-Project.git))
 
 ###
 
