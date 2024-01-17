@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there 👋  What's up </h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
