@@ -73,10 +73,11 @@
 
 <h2 align="center">💻 Projects</h2>
 <p align="left">
-  Projects that I am currently working on:
+  Projects that I Completed on:
 </p>
 
 - 🛍️ [First-Project_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API](https://github.com/AnanyaDevGo/First-Project.git)
+- 🛍️ [Explorite](https://github.com/AnanyaDevGo/Explorite.git).
 
 ###
 
